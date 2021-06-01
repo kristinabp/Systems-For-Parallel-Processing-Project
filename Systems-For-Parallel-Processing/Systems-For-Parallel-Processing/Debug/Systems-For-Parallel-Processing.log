@@ -1,8 +1,0 @@
-﻿  ECalc.cpp
-C:\Users\Krisi\OneDrive - uni-sofia.bg\Desktop\Systems-For-Parallel-Processing-Project\Systems-For-Parallel-Processing\Systems-For-Parallel-Processing\ECalc.cpp(22,31): warning C4244: '=': conversion from 'long double' to '_Ty', possible loss of data
-          with
-          [
-              _Ty=unsigned long
-          ]
-C:\Users\Krisi\OneDrive - uni-sofia.bg\Desktop\Systems-For-Parallel-Processing-Project\Systems-For-Parallel-Processing\Systems-For-Parallel-Processing\ECalc.cpp(40,35): warning C4244: 'argument': conversion from 'long double' to 'int', possible loss of data
-  Systems-For-Parallel-Processing.vcxproj -> C:\Users\Krisi\OneDrive - uni-sofia.bg\Desktop\Systems-For-Parallel-Processing-Project\Systems-For-Parallel-Processing\Debug\Systems-For-Parallel-Processing.exe
